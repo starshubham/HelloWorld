@@ -17,7 +17,6 @@ namespace Hello
              */ 
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello Shubham");
-            Console.WriteLine("I love C#");
             Console.ReadLine();
         }
     }
