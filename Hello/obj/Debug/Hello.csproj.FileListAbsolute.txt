@@ -1,0 +1,16 @@
+C:\Users\My Laptop\source\repos\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\My Laptop\source\repos\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\My Laptop\source\repos\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\My Laptop\source\repos\Hello\Hello\obj\Debug\Hello.csproj.AssemblyReference.cache
+C:\Users\My Laptop\source\repos\Hello\Hello\obj\Debug\Hello.csproj.SuggestedBindingRedirects.cache
+C:\Users\My Laptop\source\repos\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\source\repos\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\My Laptop\source\repos\Hello\Hello\obj\Debug\Hello.pdb
+C:\Users\My Laptop\Desktop\BrProjects\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\My Laptop\Desktop\BrProjects\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\My Laptop\Desktop\BrProjects\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\My Laptop\Desktop\BrProjects\Hello\Hello\obj\Debug\Hello.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\Hello\Hello\obj\Debug\Hello.csproj.SuggestedBindingRedirects.cache
+C:\Users\My Laptop\Desktop\BrProjects\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\My Laptop\Desktop\BrProjects\Hello\Hello\obj\Debug\Hello.pdb
